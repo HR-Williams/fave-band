@@ -1,5 +1,13 @@
 .sidebar {
   width: 25%;
-  float:right;
+  float: right;
   background-color: rgb(245, 60, 60);
+}
+
+.imageL {
+  float: left;
+}
+
+.imageR {
+  float: right;
 }
